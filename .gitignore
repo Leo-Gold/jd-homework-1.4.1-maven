@@ -1,3 +1,6 @@
 jd-homework-1.4.1-maven.iml
 .idea
 target
+api/target
+db/target
+service/target
